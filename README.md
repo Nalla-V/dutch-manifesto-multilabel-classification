@@ -97,3 +97,8 @@ The RobBERT-2023 fine-tune uses batch size 2 with gradient accumulation 4, learn
   predicted separately, though the annotations are clearly correlated.
 - Results come from one seed and one split. No variance estimates.
 
+## Contributor
+
+- Nallathambi Vethiappan
+- Luis Chial Sanchez
+
